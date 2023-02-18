@@ -1,0 +1,12 @@
+{
+  "name": "firstBabylonJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BryanValeriano/firstBabylonJs.git",
+  "author": "Bryan Valeriano",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "typescript": "^4.9.5"
+  }
+}
